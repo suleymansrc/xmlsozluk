@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+<name>İSTİHDAM</name>
+<name-en>İSTİHDAM</name-en>
+<tags>
+	<tag>borsa</tag>
+	<tag>finans</tag>
+</tags>
+<popular>true</popular>
+<long-description>
+<![CDATA[
+Bir işi olup kendi hesabına veya başka bir yerde ücretli olarak çalışanların toplamına istihdam denir.
+]]></![CDATA[>
+</long-description>
+</directory>

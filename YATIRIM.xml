@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+    <name>YATIRIM</name>
+    <name-en>Investment</name-en>
+    <tags>
+        <tag>borsa</tag>
+        <tag>finans</tag>
+    </tags>
+    <popular>true</popular>
+    <short-description><![CDATA[
+Yaşamımızın büyük bir bölümünde para kazanır ve bu kazandığımız parayı harcarız, yani <terim name="TÜKETİM">tüketim</terim> için kullanırız. Kazandığımız para harcamalarımızın üstünde olduğu zaman <terim name="TASARRUF">tasarruf</terim> ederek yatırıma başlarız. 
+Yatırım yapmak için bugün harcayacağımız tutardan vaz geçmemiz gerekir. Yatırım gelecekte bir <terim name="BEKLENEN FAYDA TEORİSİ VE KAYITSILIK EĞRİLERİ">fayda</terim> sağlamak için bugün harcamaktan vaz geçtiğimiz tutardır.
+]]>
+    </short-description>
+    <long-description>
+        <![CDATA[
+Bunu bir örnekle açıklayalım. Ev almak istiyoruz ve evin bir bölümünü peşin olarak ödememiz gerekiyor. Ancak bugün itibariyle peşin paramız yok. Bu durumda gelecekte istediğimiz evi alabilmek için peşinatı biriktirmemiz diğer bir deyişle bugün daha az harcamamız gerekir. Biriktirdiğimiz tutar yatırımlarımızı oluşturur. Bugün harcamaktan vaz geçmemiz için bizi motive eden faktör gelecekte alacağımız ev için para biriktirmektir. Biriktidiğimiz paranın da evi alacağımız güne kadar gelir getirmesini arzu ederiz. 
+Yukarıdaki örneğin yanında bugün tüketim harcaması yapmak yerine bizi yatırıma yönlendiren başka bir sebep de ileride bugüne göre daha fazla tüketim harcaması yapabilecek tutara sahip olacağımızı düşündüğümüzde ortaya çıkar.
+Yatırımlar reel yatırımlar ve finansal yatırımlar olmak üzere ikiye ayrılır. 
+Örneğimize geri dönersek ev almak için biriktiriğimiz peşinat finansal yatırımdır. Finansal yatırımlarımızı, mevduat, <terim name="SABİT GETİRİLİ MENKUL KIYMETLER">sabit getirili menkul kıymetler, pay (hisse) senedi</terim>, yatırım fonu, emeklilik fonu vbg. yatırım araçlarında değerlendiririz.
+Evi satın aldığımızda finansal yatırımımız artık reel yatırım haline dönüşür. Reel yatırımlara, arazi, makine, fabrika ve sanatsal tablolara yapılan yatırımları örnek verebiliriz. 
+Yaptığımız yatırımlardan çeşitli kazançlar (kayıplar) sağlarız. Bu kazançlar (kayıplar) <terim name="SERMAYE KAZANCI">sermaye kazancı (kayıbı)</terim> ya da <terim name="FAİZ VE FAİZ ORANI">faiz</terim> kazancı olarak adlandırılır. Yatırım yapıp yapmamaya <terim name="RİSK">risk</terim> ve <terim name="GETİRİ ORANI">getiri</terim> ilişkisi ile karar veririz.  
+]]></![CDATA[>
+</long-description>
+        </directory>

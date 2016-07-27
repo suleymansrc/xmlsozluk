@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+    <name>FIBONACCİ SAYİ DİZİSİ</name>
+    <name-en>FIBONACCİ SAYİ DİZİSİ</name-en>
+    <tags>
+        <tag>borsa</tag>
+        <tag>finans</tag>
+    </tags>
+    <popular>true</popular>
+    <short-description><![CDATA[
+Fibonacci adındaki İtalyan bir matematikçi, 11. yüzyılda Mısır’ı ziyaretinde Piramitleri incelerken bazı sayılar saptayarak ülkesine geri dönmüştür. Bu sayılar daha sonra, borsa ile ilgilenenler tarafından borsaya uyarlanmış ve Fibonacci’nin geliştirdiği sayıları temel alarak çeşitli hesaplamalar yapılmıştır. Değişik kişiler tarafından bu sayıları temel alarak geliştirilen teknik analiz araçlarının tümüne Fibonacci Çalışmaları  adı verilir. ]]>
+    </short-description>
+    <long-description>
+        <![CDATA[
+Fibonacci sayı dizisi aynı zamanda altın oran olarakta bilinir. Fibonacci  sayıları,
+1 1 2 3 5 8 13 21… olarak gider.
+İlk sayıya ikincisinin eklenmesiyle bulunur. 
+1 + 1 = 2
+1 +2 = 3
+2 + 3 = 5…. 
+]]></![CDATA[>
+</long-description>
+        </directory>
